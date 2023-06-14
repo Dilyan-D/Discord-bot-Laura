@@ -1,0 +1,11 @@
+{
+    "prefix": "?",
+    "token": "...",
+    "botVersion": "1.4.8",
+    
+    "NF": "New Features",
+    "BF": "Bug Fixes",
+    "PI": "Performance Improvements",
+    "OTHER": "Other",
+    "KB": "Known Bugs"
+}
